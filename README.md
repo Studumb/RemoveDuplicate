@@ -1,6 +1,6 @@
 # Remove Duplicate
 Remove duplicate tools given by the "spacecreate" cheat.   
-This is the instruction and source code, [download the mod](https://github.com/Studumb/RemoveDuplicate/releases) here
+These are the instruction and the source code, [download the mod](https://github.com/Studumb/RemoveDuplicate/releases) here
 ### How to remove duplicated tool:
 - In order to remove duplicated tools, buy those new items shown below.
 
