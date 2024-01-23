@@ -1,3 +1,5 @@
 # RemoveDuplicate
-Remove duplicate tools given by the "spacecreate" cheat.
-In order to remove duplicate tool, open the trade menu then buy some new custom item and save the game. After that remove the mod. Don't worry if there some empty slots, after launch the game again all tool should be sorted correctly.
+Remove duplicate tools given by the "spacecreate" cheat.   
+In order to remove duplicated tools, buy those new items shown below.
+![image](https://raw.githubusercontent.com/Studumb/RemoveDuplicate/main/Screenshot_161.webp)   
+After that save the game and remove the mod.
