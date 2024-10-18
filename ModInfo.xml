@@ -1,6 +1,6 @@
-<mod displayName="Remove Glide Cap" 
-     unique="Remove Glide Cap" 
-     description="Enables infinite Glide (infinite flight)." 
+<mod displayName="Remove Duplicate" 
+     unique="Remove Duplicate" 
+     description="Remove duplicate tool given by "spacecreate" cheat." 
      installerSystemVersion="1.0.1.2" 
      hasCustomInstaller="false" 
      dllsBuild="2.5.337">
