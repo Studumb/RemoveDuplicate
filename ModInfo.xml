@@ -1,8 +1,7 @@
 <mod displayName="Remove Duplicate" 
      unique="Remove Duplicate" 
-     description="Remove duplicate tool given by "spacecreate" cheat. Make sure to read the instruction at the mod's github page." 
+     description="Remove duplicate tool given by spacecreate cheat. Make sure to read the instruction at the mod's github page." 
      installerSystemVersion="1.0.1.2" 
      hasCustomInstaller="false" 
      dllsBuild="2.5.337">
-<prerequisite>RemoveGlideCap.dll</prerequisite>
 </mod>
